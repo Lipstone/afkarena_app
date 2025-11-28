@@ -1,4 +1,4 @@
-export default function Home() {
+export default function About() {
   return (
     <>
       <nav>
@@ -11,12 +11,11 @@ export default function Home() {
       
       <main>
         <div className="container">
-          <h1>Bienvenue</h1>
-          <p>Application Next.js avec design clearglass moderne</p>
+          <h1>À propos</h1>
+          <p>Découvrez notre application AFK Arena avec une expérience utilisateur moderne et élégante.</p>
           <p style={{ fontSize: '0.95rem', marginTop: '20px', color: '#9ca3af' }}>
-            Prête pour Vercel avec style épuré et dégradé violet-noir
+            Construite avec Next.js 14 et déployée sur Vercel
           </p>
-          <button className="btn">Commencer</button>
         </div>
       </main>
     </>
