@@ -1,0 +1,7 @@
+{
+  "name": "AFK Arena App",
+  "version": "0.1.0",
+  "private": true,
+  "buildCommand": "next build",
+  "outputDirectory": ".next"
+}
