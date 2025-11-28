@@ -5,6 +5,7 @@ export default function Home() {
         <ul>
           <li><a href="/">Accueil</a></li>
           <li><a href="/about">À propos</a></li>
+          <li><a href="/calculator">Challenger Coins</a></li>
           <li><a href="/contact">Contact</a></li>
         </ul>
       </nav>
